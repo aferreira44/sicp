@@ -38,6 +38,6 @@
 
 # Map, filter, lambda functions, functional programming
 
-- [](https://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/)
-- [](http://decafbad.net/2017/07/24/you-should-learn-scheme/)
-- [](https://www.gnu.org/software/guile/manual/html_node/Hello-Scheme_0021.html#Hello-Scheme_0021)
+- https://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/
+- http://decafbad.net/2017/07/24/you-should-learn-scheme/
+- https://www.gnu.org/software/guile/manual/html_node/Hello-Scheme_0021.html#Hello-Scheme_0021
