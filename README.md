@@ -1,43 +1,22 @@
-# Structure and Interpretation of Computer Programs
+# SICP - Structure and Interpretation of Computer Programs
 
-- [ ] [Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
-- [Full text Book](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
-- [SICP - Solutions](http://community.schemewiki.org/?SICP-Solutions)
+![Image of SICP](sicp.png)
 
-## Lisp
+## Material
+* [Livro online](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+* [Versão em PDF/LaTex](https://github.com/sarabander/sicp-pdf)
+* [Versão Online/Interativa](https://xuanji.appspot.com/isicp/)
+* [Curso do MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+  * [Aulas em vídeo](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+  * [Anotações das aulas](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/)
+  * [Correlação das aulas com o livro](http://community.schemewiki.org/?sicp-text-to-video-map)
 
-[Lisp (programming language)](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+## Soluções dos exercícios
 
-## Scheme
-
-[Scheme - Wikipedia](https://en.wikipedia.org/wiki/Scheme_%28programming_language)
-[Yet Another Scheme Tutorial](http://www.shido.info/lisp/idx_scm_e.html?ref=hackr.io)
-- [x] [Scheme, Guile, and Racket: an Introduction by Craig Maloney](https://www.youtube.com/watch?v=Kq-4nhIktes)
-
-### Install mit-scheme
-
-`sudo pamac install mit-scheme`
-
-### Run a program
-
-`scheme < expressions.scm`
-
-## Guile
-
-- [](https://www.gnu.org/software/guile/)
-- [](https://www.gnu.org/software/guile/manual/)
-
-## Racket
-- [](https://racket-lang.org/)
-
-## Lambda Calculus
-
-## Lambda Functions
-
-## Recursion
-
-# Map, filter, lambda functions, functional programming
-
-- [](https://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/)
-- [](http://decafbad.net/2017/07/24/you-should-learn-scheme/)
-- [](https://www.gnu.org/software/guile/manual/html_node/Hello-Scheme_0021.html#Hello-Scheme_0021)
+* [SICP-wiki](http://community.schemewiki.org/?SICP-Solutions)
+* [Bill the Lizard](http://www.billthelizard.com/2009/10/sicp-challenge.html)
+* [Eli Bendersky](https://eli.thegreenplace.net/tag/sicp)
+* [Ken Dyck](https://kendyck.com/category/programming/sicp/)
+* [qiao-github](https://github.com/qiao/sicp-solutions)
+* [Sergey Khenking(sicp russian)](http://sicp.sergeykhenkin.com/sicp-exercise-solutions/)
+* [Wizardbook](https://wizardbook.wordpress.com/solutions-index/)
